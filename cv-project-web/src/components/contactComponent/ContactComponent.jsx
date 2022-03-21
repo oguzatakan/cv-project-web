@@ -9,17 +9,17 @@ const ContactComponent = () => {
           <div class = "row settıng">
             <img width={"40"} height={"40"} src = "https://w7.pngwing.com/pngs/99/335/png-transparent-black-home-icon-font-awesome-computer-icons-house-font-address-angle-logo-black.png"></img>
             <p>
-            Adres : Barbaros Mahallesi / Dilek Sokak / Numara:15/A
-            Çanakkale/Merkez
+            Adres : Barbaros Mahallesi / Kemal Sokak / Numara:15/A
+            İstanbul/Merter
           </p>
           </div>
           <div class = "row settıng">
             <img width={"40"} height={"40"} src = "https://w7.pngwing.com/pngs/1016/200/png-transparent-telephone-computer-icons-business-handset-email-phone-service-hand-people.png"></img>
-          <p>Telefon : 0531 204 3881</p>
+          <p>Telefon : 0533 333 33 33</p>
           </div>
           <div class = "row settıng">
             <img width={"40"} height={"40"} src = "https://cdn-icons-png.flaticon.com/512/281/281769.png"></img>
-          <p>Mail : atakanoguz17@gmail.com</p>
+          <p>Mail : engineer17@gmail.com</p>
           </div>
           <div class="row settıng">
             <img width={"40"} height={"40"} src = "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></img>
