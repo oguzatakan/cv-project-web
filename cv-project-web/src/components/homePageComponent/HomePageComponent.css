@@ -1,3 +1,10 @@
+.aboutMe1{
+    margin-top: 75px;
+    font-size: 20px;
+}
 .aboutMe{
-    margin-top: 10px;
+    margin-top: 30px;
+}
+.photo{
+    max-width: 500px;
 }

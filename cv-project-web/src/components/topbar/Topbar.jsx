@@ -16,10 +16,13 @@ return(
           <a class="nav-link active" aria-current="page" href="/about">About Me</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="/contact">Contact</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="/job">Job</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="/school">School</a>
+          <a class="nav-link active" aria-current="page" href="/school">Education</a>
         </li>
       </ul>
     </div>
