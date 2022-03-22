@@ -19,7 +19,7 @@ const ContactComponent = () => {
           </div>
           <div class = "row settıng">
             <img width={"40"} height={"40"} src = "https://cdn-icons-png.flaticon.com/512/281/281769.png"></img>
-          <p>Mail : engineer17@gmail.com</p>
+          <p>Mail : mail123@gmail.com</p>
           </div>
           <div class="row settıng">
             <img width={"40"} height={"40"} src = "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></img>
