@@ -11,18 +11,32 @@ const AboutMeComponent=()=>{
         <div>
             <h2>Yazılım Alanları</h2>
     <ul class="list-group">
-<li class="list-group-item">Java</li>
-<li class="list-group-item">Spring Mvc</li>
-<li class="list-group-item">C#</li>
-<li class="list-group-item">React-JavaScript-Html-Css</li>
+<li class="list-group-item"><div class="row settıngs">
+    <img width={"50"} height={"40"} src = "https://e7.pngegg.com/pngimages/510/15/png-clipart-java-programming-computer-programming-programming-language-android-coffee-jar-text-logo.png"></img>Java
+    </div></li>
+<li class="list-group-item"><div class="row settıngs">
+    <img width={"60"} height={"30"} src = "https://spring.io/images/OG-Spring.png"></img>Spring Mvc
+    </div></li>
+<li class="list-group-item"><div class="row settıngs">
+    <img width={"30"} height={"30"} src = "https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></img>C#
+    </div></li>
+    <li class="list-group-item"><div class="row settıngs">
+    <img width={"50"} height={"30"} src = "https://reactjs.org/logo-og.png"></img>React-JavaScript-Html-Css
+    </div></li>
 </ul>
     </div>
     <div>
             <h2>Dil Bilgisi</h2>
     <ul class="list-group">
-<li class="list-group-item">Türkçe - Ana Dil</li>
-<li class="list-group-item">İngilizce - Orta Seviye</li>
-<li class="list-group-item">Almanca - Başlangıç</li>
+<li class="list-group-item"><div class="row settıngs">
+    <img width={"30"} height={"30"} src = "https://freepikpsd.com/file/2019/10/yuvarlak-türk-bayrağı-png-6-Transparent-Images.png"></img>Türkçe - Ana Dil
+    </div></li>
+    <li class="list-group-item"><div class="row settıngs">
+    <img width={"30"} height={"30"} src = "https://e7.pngegg.com/pngimages/1020/23/png-clipart-logo-primera-air-organization-business-english-language-british-flag-flag-logo.png"></img>İngilizce - Orta Seviye
+    </div></li>
+    <li class="list-group-item"><div class="row settıngs">
+    <img width={"30"} height={"30"} src = "https://m.media-amazon.com/images/I/414FLNsJVXL._AC_SY1000_.jpg"></img>Almanca - Başlangıç
+    </div></li>
 </ul>
     </div>
     <div>
@@ -42,7 +56,9 @@ const AboutMeComponent=()=>{
         </div>
         <div>
             <h2>Hobi</h2>
-            <p>Profesyonel olarak basketbol oynamaya devam edemesemde düzenli olarak devam etmekteyim. Bilgisayar 
+            <p>Çocukluğumdan bu yana bilgisayar hayatımın her yerinde bulunduğu için bir şeyler araştırmak geliştirmek
+                en büyük hobimdir, bilgisayar mühendisi olmayı da bu yüzden çok fazla isteyerek bu günlere gelmemde ki büyük etkendir.
+                Profesyonel olarak basketbol oynamaya devam edemesemde düzenli olarak devam etmekteyim. Bilgisayar 
                 oyunları hobilerim arasında bulunmaktadır. Yeni yerler keşfetmek, gezip yeni yerler hakkında bilgi
                 edinmek hobilerim arasında yer almaktadır.
             </p>
